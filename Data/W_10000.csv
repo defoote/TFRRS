@@ -1,0 +1,601 @@
+,ATHLETE,YEAR,TEAM,TIME,MEET,MEET DATE,EVENT,GENDER
+1,"Rohrer, Anna",FR-1,Notre Dame,31:58.99,Stanford Invitational,2017-03-31,10000,W
+2,"Taylor, Charlotte",SR-4,San Francisco,32:11.80,Stanford Invitational,2017-03-31,10000,W
+3,"Wright, Alice",JR-3,New Mexico,32:29.28,Payton Jordan Invitational,2017-05-05,10000,W
+4,"Kempfer, Jamie",SO-2,Missouri,33:09.67,Stanford Invitational,2017-03-31,10000,W
+5,"Blaney, Anne-Marie",SR-4,UCF,33:18.81,Stanford Cardinal Classic,2017-04-21,10000,W
+6,"Seidel, Molly",SR-4,Notre Dame,33:19.60,Stanford Invitational,2017-03-31,10000,W
+7,"Clark, Erin",JR-3,Colorado,33:23.92,Pac-12 Championships,2017-05-13,10000,W
+8,"Morley, Makena",FR-1,Colorado,33:29.22,Pac-12 Championships,2017-05-13,10000,W
+9,"Knights, Bethan",JR-3,California,33:30.13,Pac-12 Championships,2017-05-13,10000,W
+10,"Batt-Doyle, Isobel",JR-3,Washington,33:35.19,Pac-12 Championships,2017-05-13,10000,W
+11,"Eder, Veronica",SR-4,Auburn,33:35.73,Stanford Invitational,2017-03-31,10000,W
+12,"Rome, Regan",JR-3,William and Mary,33:36.19,2017 Colonial Relays,2017-03-30,10000,W
+13,"Kemp, Erika",JR-3,North Carolina St.,33:36.26,Raleigh Relays,2017-03-24,10000,W
+14,"Lokedi, Sharon",JR-3,Kansas,33:37.01,Stanford Invitational,2017-03-31,10000,W
+15,"McDermitt, Jordann",JR-3,Eastern Michigan,33:37.37,Stanford Invitational,2017-03-31,10000,W
+16,"Kelly, Annie",JR-3,Colorado,33:39.35,Pac-12 Championships,2017-05-13,10000,W
+17,"Meyer, Eden",JR-3,North Florida,33:43.36,Raleigh Relays,2017-03-24,10000,W
+18,"Brauer, Isabelle",SO-2,San Francisco,33:44.11,Stanford Invitational,2017-03-31,10000,W
+19,"Sang, Caroline",JR-3,Charlotte,33:44.44,Raleigh Relays,2017-03-24,10000,W
+20,"Long, Lindy",SR-4,Air Force,33:44.60,Stanford Invitational,2017-03-31,10000,W
+21,"Farello, Anna",SR-4,Portland,33:44.75,Stanford Invitational,2017-03-31,10000,W
+22,"Shanahan, Danielle",SR-4,Loyola Marymount,33:45.59,Mt. SAC Relays,2017-04-13,10000,W
+23,"Snyder, Alyssa",SO-2,Montana State,33:45.87,Mt. SAC Relays,2017-04-13,10000,W
+24,"Pratt, Olivia",SR-4,Butler,33:46.03,Stanford Invitational,2017-03-31,10000,W
+25,"Nun, Melanie",JR-3,Colorado,33:46.49,Pac-12 Championships,2017-05-13,10000,W
+26,"Braswell, Anna",JR-3,Ole Miss,33:47.22,Stanford Invitational,2017-03-31,10000,W
+27,"Tanner, Natalie",SR-4,Columbia,33:48.20,Virginia Challenge,2017-04-21,10000,W
+28,"Durgin, Emily",SR-4,Connecticut,33:49.30,Penn Relays,2017-04-27,10000,W
+29,"Frisbie, Anne",SO-2,Iowa State,33:49.71,Stanford Invitational,2017-03-31,10000,W
+30,"Burda, Bella",SO-2,Villanova,33:50.44,Stanford Invitational,2017-03-31,10000,W
+31,"Koech, Winny",SO-2,UTEP,33:51.31,Mt. SAC Relays,2017-04-13,10000,W
+32,"Flanagan, Kaylee",SR-4,Washington,33:52.48,Stanford Invitational,2017-03-31,10000,W
+33,"Sereno, Gina",SR-4,Michigan,33:53.02,Big Ten Outdoor Championships,2017-05-12,10000,W
+34,"Way, Amber",FR-1,Michigan State,33:54.70,Raleigh Relays,2017-03-24,10000,W
+35,"Smith, Jaci",SO-2,Air Force,33:54.99,Stanford Invitational,2017-03-31,10000,W
+36,"Hunsberger, Jillian",SO-2,Penn State,33:55.55,Big Ten Outdoor Championships,2017-05-12,10000,W
+37,"Stoner, Paige",SO-2,Syracuse,33:55.69,Stanford Invitational,2017-03-31,10000,W
+38,"Caro, Jocelyn",SR-4,Texas Tech,33:55.81,Big 12 Outdoor Track & Field Championships,2017-05-12,10000,W
+39,"Schmaedick, Maggie",SR-4,Oregon,33:56.31,Pac-12 Championships,2017-05-13,10000,W
+40,"Allen, Margaret",SO-2,Indiana,33:56.37,Big Ten Outdoor Championships,2017-05-12,10000,W
+41,"Korir, Vallery",JR-3,Washington St.,33:58.17,Stanford Invitational,2017-03-31,10000,W
+42,"McConnochie, Grace",JR-3,Portland,33:58.48,Mt. SAC Relays,2017-04-13,10000,W
+43,"Whetten, Hailey",JR-3,Weber State,33:58.66,Stanford Invitational,2017-03-31,10000,W
+44,"Bradley, Lindsey",FR-1,Baylor,33:59.56,Big 12 Outdoor Track & Field Championships,2017-05-12,10000,W
+45,"Pelletier, Alexa",JR-3,Notre Dame,33:59.73,Stanford Invitational,2017-03-31,10000,W
+46,"Wiersma, Alexis",SR-4,Michigan State,34:01.65,Big Ten Outdoor Championships,2017-05-12,10000,W
+47,"Albertson, Chelsey",SR-4,Arizona State,34:01.68,Pac-12 Championships,2017-05-13,10000,W
+48,"Walny, Rachel",SO-2,Bowling Green,34:02.57,Mt. SAC Relays,2017-04-13,10000,W
+49,"Drazba, Maggie",JR-3,West Virginia,34:04.26,Stanford Invitational,2017-03-31,10000,W
+50,"Van Ord, Tristin",SR-4,Appalachian State,34:04.64,Raleigh Relays,2017-03-24,10000,W
+51,"Kennedy, Isabelle",JR-3,Boston College,34:04.87,2017 Colonial Relays,2017-03-30,10000,W
+52,"Schriever, Gillian",SO-2,Pittsburgh,34:05.13,Stanford Invitational,2017-03-31,10000,W
+53,"Munks, Kathryn",FR-1,Penn State,34:05.28,Big Ten Outdoor Championships,2017-05-12,10000,W
+54,"Murphy, Grayson",JR-3,Utah,34:06.69,Mt. SAC Relays,2017-04-13,10000,W
+55,"England, Mary Alex",SR-4,Ole Miss,34:07.45,Stanford Invitational,2017-03-31,10000,W
+56,"Bean, Emily",JR-3,Ole Miss,34:07.57,Stanford Invitational,2017-03-31,10000,W
+57,"Young, Laura",JR-3,BYU,34:07.86,Mt. SAC Relays,2017-04-13,10000,W
+58,"Whiting, Cleo",SR-4,Penn,34:09.65,Stanford Invitational,2017-03-31,10000,W
+59,"Heffernan, Annie",FR-1,Notre Dame,34:11.17,Virginia Challenge,2017-04-21,10000,W
+60,"Bothma, Annie",FR-1,Coastal Carolina,34:12.04,Sun Belt Outdoor Track and Field Championships,2017-05-12,10000,W
+61,"Zerrenner, Addi",JR-3,Arizona,34:13.00,Stanford Invitational,2017-03-31,10000,W
+62,"Mildes, Jessica",SR-4,Gonzaga,34:13.96,Mt. SAC Relays,2017-04-13,10000,W
+63,"Verdon, Carrie",SR-4,Colorado,34:14.63,Pac-12 Championships,2017-05-13,10000,W
+64,"Werner, Taylor",FR-1,Arkansas,34:15.71,SEC Outdoor Track & Field Championships,2017-05-11,10000,W
+65,"Tretbar, Brittany",SR-4,Oklahoma,34:15.78,Mt. SAC Relays,2017-04-13,10000,W
+66,"Davis, Amy",SO-2,Wisconsin,34:16.95,Big Ten Outdoor Championships,2017-05-12,10000,W
+67,"Blaase, Chelsea",SR-4,Tennessee,34:17.68,Virginia Challenge,2017-04-21,10000,W
+68,"Ness, Bailey",SO-2,Minnesota,34:17.74,Big Ten Outdoor Championships,2017-05-12,10000,W
+69,"Benner, Emma",FR-1,Purdue,34:19.41,Mt. SAC Relays,2017-04-13,10000,W
+70,"Lambert, Caroline",SO-2,Toledo,34:21.50,Stanford Invitational,2017-03-31,10000,W
+71,"Feivor, Brittney",SR-4,Marquette,34:25.78,BIG EAST Outdoor Track & Field Championships,2017-05-12,10000,W
+72,"Lee, Michelle",SR-4,Wisconsin,34:30.25,Big Ten Outdoor Championships,2017-05-12,10000,W
+73,"McLaughlin, Abigail",FR-1,Columbia,34:31.21,Raleigh Relays,2017-03-24,10000,W
+74,"Rose, Isabella",FR-1,Oklahoma,34:31.43,Stanford Invitational,2017-03-31,10000,W
+75,"Eichkorn, Amber",SR-4,South Dakota,34:32.60,Mt. SAC Relays,2017-04-13,10000,W
+76,"Meydrich, Mia",JR-3,Miss State,34:32.98,SEC Outdoor Track & Field Championships,2017-05-11,10000,W
+77,"Jensen, Alice",SO-2,BYU,34:33.91,Mt. SAC Relays,2017-04-13,10000,W
+78,"McNulty, Abbie",SO-2,Stanford,34:33.98,Stanford Invitational,2017-03-31,10000,W
+79,"Schulte, Tatjana",FR-1,San Francisco,34:34.40,2017 West Coast Last Chance Open,2017-05-12,10000,W
+80,"Koon, Rachel",SO-2,North Carolina St.,34:35.01,ACC Outdoor Track & Field Championships,2017-05-12,10000,W
+81,"Schwartz, Kelsie",SO-2,Michigan State,34:35.36,Big Ten Outdoor Championships,2017-05-12,10000,W
+82,"McKenna, Molly",JR-3,William and Mary,34:35.67,2017 Colonial Relays,2017-03-30,10000,W
+83,"Maritim, Joan",JR-3,Campbell,34:35.83,Raleigh Relays,2017-03-24,10000,W
+84,"Silva, Yesenia",SR-4,BYU,34:36.01,Mt. SAC Relays,2017-04-13,10000,W
+85,"Christen, Hannah",JR-3,Ole Miss,34:36.44,Stanford Invitational,2017-03-31,10000,W
+86,"Hirsch, Sidney",SR-4,Wichita State,34:37.87,Stanford Invitational,2017-03-31,10000,W
+87,"Scavuzzo, Maria",JR-3,Miami (Ohio),34:38.19,Mt. SAC Relays,2017-04-13,10000,W
+88,"Darling, Kathleen",SR-4,Notre Dame,34:38.24,Stanford Invitational,2017-03-31,10000,W
+89,"Perez, Madeline",JR-3,Georgetown,34:40.76,BIG EAST Outdoor Track & Field Championships,2017-05-12,10000,W
+90,"Roper, Cali",SR-4,Rice,34:40.96,Mt. SAC Relays,2017-04-13,10000,W
+91,"Sorensen, Shaelyn",SO-2,Wisconsin,34:42.03,Big Ten Outdoor Championships,2017-05-12,10000,W
+92,"Dodge, Jenica",JR-3,Idaho State,34:42.63,Mt. SAC Relays,2017-04-13,10000,W
+93,"Sagnes, Mathilde",JR-3,Portland,34:42.90,Mt. SAC Relays,2017-04-13,10000,W
+94,"Sandoval, Jennifer",FR-1,San Jose St.,34:44.17,Mt. SAC Relays,2017-04-13,10000,W
+95,"Reiter, Sarah",SR-4,Eastern Washington,34:44.39,Mt. SAC Relays,2017-04-13,10000,W
+96,"Drop, Samantha",FR-1,Georgia,34:45.66,SEC Outdoor Track & Field Championships,2017-05-11,10000,W
+97,"Scott, Catherine",SR-4,Bucknell,34:46.48,Bison Outdoor Classic,2017-04-14,10000,W
+98,"Goethals, Jessica",SO-2,Michigan State,34:46.49,Raleigh Relays,2017-03-24,10000,W
+99,"Thomas, Peyton",SR-4,Baylor,34:46.64,Big 12 Outdoor Track & Field Championships,2017-05-12,10000,W
+100,"Miller, Hannah",FR-1,SMU,34:47.28,The American Outdoor Track & Field Championships,2017-05-12,10000,W
+1,"Kirk, Elinor",SR-4,UAB,32:17.05,Stanford Invitational,2014-04-04,10000,W
+2,"Bates, Emma",JR-3,Boise State,32:20.83,Payton Jordan Cardinal Invitational,2014-05-04,10000,W
+3,"Bottorff, Juliet",SR-4,Duke,32:25.69,Payton Jordan Cardinal Invitational,2014-05-04,10000,W
+4,"Kibet, Elvin",JR-3,Arizona,32:40.22,Mt. SAC Relays,2014-04-17,10000,W
+5,"Stites, Emily",SO-2,William and Mary,32:41.55,Mt. SAC Relays,2014-04-17,10000,W
+6,"Finn, Erin",FR-1,Michigan,32:41.65,Big Ten Outdoor Track & Field Championships,2014-05-16,10000,W
+7,"Avery, Kate",SO-2,Iona,32:42.11,Payton Jordan Cardinal Invitational,2014-05-04,10000,W
+8,"Walker, Hannah",JR-3,Florida State,32:56.90,ACC Outdoor Track & Field Championships,2014-04-17,10000,W
+9,"Goethals, Megan",SR-4,Washington,33:05.77,Stanford Invitational,2014-04-04,10000,W
+10,"D'Agostino, Abbey",SR-4,Dartmouth,33:10.38,Ivy League Outdoor Track & Field Championships,2014-05-10,10000,W
+11,"Blaase, Chelsea",FR-1,Tennessee,33:13.94,Stanford Invitational,2014-04-04,10000,W
+12,"Malone, Margo",SO-2,Syracuse,33:15.02,ACC Outdoor Track & Field Championships,2014-04-17,10000,W
+13,"Flanagan, Lindsay",SR-4,Washington,33:15.12,Stanford Invitational,2014-04-04,10000,W
+14,"McGlinchey, Meghan",SR-4,La Salle,33:15.95,Stanford Invitational,2014-04-04,10000,W
+15,"Levene, Abby",SR-4,Colorado,33:17.58,Stanford Invitational,2014-04-04,10000,W
+16,"Thompson, Joanna",JR-3,North Carolina St.,33:24.61,ACC Outdoor Track & Field Championships,2014-04-17,10000,W
+17,"Curham, Megan",FR-1,Princeton,33:24.79,Ivy League Outdoor Track & Field Championships,2014-05-10,10000,W
+18,"Winterton, Rebekah",JR-3,Utah,33:28.43,Mt. SAC Relays,2014-04-17,10000,W
+19,"Balouris, Elaina",SR-4,William and Mary,33:31.59,Mt. SAC Relays,2014-04-17,10000,W
+20,"Santisteban, Kelsey",JR-3,California,33:31.85,Stanford Invitational,2014-04-04,10000,W
+21,"Rapp, Sarah",JR-3,Virginia Tech,33:32.16,ACC Outdoor Track & Field Championships,2014-04-17,10000,W
+22,"Collins, Sarah",SO-2,Providence,33:36.36,BIG EAST Outdoor Track & Field Championships,2014-05-09,10000,W
+23,"Sorna, Rachel",SR-4,Cornell,33:36.46,Ivy League Outdoor Track & Field Championships,2014-05-10,10000,W
+24,"Mickle, Olivia",SR-4,Texas,33:40.14,Stanford Invitational,2014-04-04,10000,W
+25,"Verdon, Carrie",SO-2,Colorado,33:42.02,Stanford Invitational,2014-04-04,10000,W
+26,"Pagano, Sarah",SR-4,Syracuse,33:42.14,ACC Outdoor Track & Field Championships,2014-04-17,10000,W
+27,"Anderson, Elizabeth",JR-3,Vanderbilt,33:44.76,Stanford Invitational,2014-04-04,10000,W
+28,"Robison, Diane",JR-3,Arkansas,33:47.79,Mt. SAC Relays,2014-04-17,10000,W
+29,"Busch, Kristen",SO-2,Bradley,33:48.36,Stanford Invitational,2014-04-04,10000,W
+30,"Scott, Dominique",SO-2,Arkansas,33:51.84,SEC Outdoor Championship,2014-05-15,10000,W
+31,"Anderson, Leigha",SO-2,Penn State,33:52.32,Penn Relays,2014-04-24,10000,W
+32,"Aubert, Kristina",SR-4,Arkansas State,33:54.20,Stanford Invitational,2014-04-04,10000,W
+33,"Shea, Sheree",SR-4,Loyola Marymount,33:55.73,Mt. SAC Relays,2014-04-17,10000,W
+34,"Olivas, Adriana",SO-2,Arizona State,33:55.75,Stanford Invitational,2014-04-04,10000,W
+35,"Hurst, Susannah",JR-3,Utah,33:55.98,Stanford Invitational,2014-04-04,10000,W
+36,"Moen, Katy",JR-3,Iowa State,33:56.80,Mt. SAC Relays,2014-04-17,10000,W
+37,"Murphy, Emma-Lisa",FR-1,Wisconsin,34:00.02,Big Ten Outdoor Track & Field Championships,2014-05-16,10000,W
+38,"Otwell, Julia",JR-3,Michigan State,34:00.20,Big Ten Outdoor Track & Field Championships,2014-05-16,10000,W
+39,"Dean, Sarah",SR-4,Portland State,34:00.32,Payton Jordan Cardinal Invitational,2014-05-04,10000,W
+40,"Macumber, Cally",SR-4,Kentucky,34:01.52,SEC Outdoor Championship,2014-05-15,10000,W
+41,"Montgomery, Hillary",JR-3,Texas A&M,34:01.54,Stanford Invitational,2014-04-04,10000,W
+42,"McMahon, Devin",SR-4,Cornell,34:05.46,Stanford Invitational,2014-04-04,10000,W
+43,"Nielsen, Nicole",SR-4,BYU,34:05.82,Stanford Invitational,2014-04-04,10000,W
+44,"Ward, Taylor",SR-4,Weber State,34:07.86,Stanford Invitational,2014-04-04,10000,W
+45,"Fischer, Kaitlyn",FR-1,Missouri,34:08.50,Stanford Invitational,2014-04-04,10000,W
+46,"Tonn, Jessica",JR-3,Stanford,34:09.13,Pac-12 Outdoor Track and Field Championships,2014-05-17,10000,W
+47,"Lasnicki, Allison",JR-3,West Virginia,34:11.20,Penn Relays,2014-04-24,10000,W
+48,"Reese, Emily",SR-4,Harvard,34:11.97,Penn Relays,2014-04-24,10000,W
+49,"Berkholtz, Liz",SO-2,Minnesota,34:12.67,Stanford Invitational,2014-04-04,10000,W
+50,"Good, Katie",JR-3,Butler,34:13.26,Stanford Invitational,2014-04-04,10000,W
+51,"Del Fava, Silvia",SR-4,Albany,34:13.82,Penn Relays,2014-04-24,10000,W
+52,"Brown, Kate",SR-4,UAB,34:14.31,Stanford Invitational,2014-04-04,10000,W
+53,"Fakler, Sarah",FR-1,Virginia,34:15.20,ACC Outdoor Track & Field Championships,2014-04-17,10000,W
+54,"van Steenbergen, Merel",JR-3,Portland,34:16.07,Mt. SAC Relays,2014-04-17,10000,W
+55,"Hauger, Maria",FR-1,Virginia,34:16.28,Virginia Challenge,2014-05-09,10000,W
+56,"Mustonen, Sanna",JR-3,Portland,34:18.12,Stanford Invitational,2014-04-04,10000,W
+57,"Accurso, Juli",JR-3,Ohio U.,34:18.42,"48th Annual Hillsdale College ""GINA"" Relays",2014-04-24,10000,W
+57,"Roper, Cali",FR-1,Rice,34:18.42,Mt. SAC Relays,2014-04-17,10000,W
+59,"Lattimore, Leigh",JR-3,Lamar,34:19.82,Stanford Invitational,2014-04-04,10000,W
+60,"Fischer, Clare",SR-4,Xavier (Ohio),34:21.21,Mt. SAC Relays,2014-04-17,10000,W
+61,"Soethout, Jana",SR-4,San Francisco,34:21.41,Stanford Invitational,2014-04-04,10000,W
+62,"Kasper, Kirsten",SR-4,Georgetown,34:21.52,Stanford Invitational,2014-04-04,10000,W
+63,"Kellner, Caroline",SO-2,Cornell,34:21.94,Stanford Invitational,2014-04-04,10000,W
+64,"Durgin, Emily",SO-2,Connecticut,34:22.20,Mt. SAC Relays,2014-04-17,10000,W
+65,"Schneider, Alyssa",JR-3,Illinois,34:23.64,Big Ten Outdoor Track & Field Championships,2014-05-16,10000,W
+66,"Anzalone, Gabi",JR-3,Wisconsin,34:26.48,Big Ten Outdoor Track & Field Championships,2014-05-16,10000,W
+67,"Sachtleben, Bethany",JR-3,George Mason,34:27.31,Atlantic 10 Championships,2014-05-03,10000,W
+68,"DiMercurio, Nicole",SR-4,Georgia,34:30.21,SEC Outdoor Championship,2014-05-15,10000,W
+69,"Lever, Katie",SO-2,Western Kentucky,34:30.45,Stanford Invitational,2014-04-04,10000,W
+69,"Williams, Caroline",SR-4,Columbia,34:30.45,Ivy League Outdoor Track & Field Championships,2014-05-10,10000,W
+71,"Brender, Melanie",JR-3,Michigan State,34:32.10,Raleigh Relays (College/University),2014-03-28,10000,W
+72,"Haughey, Sinead",JR-3,Furman,34:32.57,Virginia Challenge,2014-05-09,10000,W
+73,"Tiyouri, Maor",SR-4,San Francisco,34:33.46,Stanford Invitational,2014-04-04,10000,W
+74,"Behnke, Amanda",FR-1,Indiana,34:33.69,Penn Relays,2014-04-24,10000,W
+75,"Bluske, Samantha",SR-4,Iowa State,34:34.14,Mt. SAC Relays,2014-04-17,10000,W
+76,"Golick, Bronte",SO-2,UCLA,34:34.55,Stanford Invitational,2014-04-04,10000,W
+77,"Meyer, Svenja",SR-4,Jacksonville,34:34.98,Penn Relays,2014-04-24,10000,W
+78,"Henderson, Teghan",FR-1,Chattanooga,34:35.06,Southern Conference Outdoor Track & Field Championships,2014-04-26,10000,W
+79,"Bulder, Stephanie",JR-3,Arizona,34:35.63,Mt. SAC Relays,2014-04-17,10000,W
+80,"Hoefert, Jessica",JR-3,Saint Louis,34:36.63,Atlantic 10 Championships,2014-05-03,10000,W
+81,"Gomez, Kinsey",JR-3,Oregon State,34:37.80,Mt. SAC Relays,2014-04-17,10000,W
+82,"Thomas, Michelle",JR-3,Ohio State,34:38.06,Big Ten Outdoor Track & Field Championships,2014-05-16,10000,W
+82,"Hoffmann, Christine",SO-2,UC Davis,34:38.06,Stanford Invitational,2014-04-04,10000,W
+84,"Simpson, Elizabeth",SR-4,Cornell,34:38.32,Stanford Invitational,2014-04-04,10000,W
+85,"Flack, Jennifer",FR-1,Virginia,34:38.37,ACC Outdoor Track & Field Championships,2014-04-17,10000,W
+86,"Greenleaf, Katelyn",SO-2,Alabama,34:38.59,Mt. SAC Relays,2014-04-17,10000,W
+87,"Braceras, Nikki",SO-2,Vermont,34:39.00,Mt. SAC Relays,2014-04-17,10000,W
+88,"Blaney, Anne-Marie",SO-2,UCF,34:39.59,Mt. SAC Relays,2014-04-17,10000,W
+89,"Szpak, Maggi",SO-2,Cornell,34:40.84,Stanford Invitational,2014-04-04,10000,W
+90,"Jochen, Karis",FR-1,Texas A&M,34:41.86,Stanford Invitational,2014-04-04,10000,W
+91,"Hanley, Viviana",JR-3,Harvard,34:44.51,Penn Relays,2014-04-24,10000,W
+92,"Docherty, Laura",SR-4,Minnesota,34:45.67,Big Ten Outdoor Track & Field Championships,2014-05-16,10000,W
+93,"Newbery, Mel",SR-4,Oregon,34:45.85,Oregon Relays,2014-04-17,10000,W
+94,"Giannotti, Emily",SR-4,Penn State,34:46.89,Penn Relays,2014-04-24,10000,W
+95,"Gomell, Annika",JR-3,Saint Louis,34:48.62,Atlantic 10 Championships,2014-05-03,10000,W
+96,"England, Mary Alex",FR-1,Mississippi,34:48.66,2014 Drake Relays presented by Hy-Vee,2014-04-23,10000,W
+97,"Oram, Allyson",SR-4,Elon,34:49.59,Stanford Invitational,2014-04-04,10000,W
+98,"Lamb, Anna",JR-3,Miami (Ohio),34:50.02,Mt. SAC Relays,2014-04-17,10000,W
+99,"Lesnar, Breanne",SO-2,Central Michigan,34:50.14,Penn Relays,2014-04-24,10000,W
+100,"Hamilton, Samantha",SR-4,Youngstown St.,34:51.17,NCC Gregory Final Qualifier Track & Field Meet 2014,2014-05-15,10000,W
+1,"Schweizer, Karissa",SR-4,Missouri,32:00.55,Stanford Invitational,2018-03-30,10000,W
+2,"Wright, Alice",SR-4,New Mexico,32:15.73,Stanford Invitational,2018-03-30,10000,W
+3,"Lokedi, Sharon",JR-3,Kansas,32:21.19,Stanford Invitational,2018-03-30,10000,W
+4,"Kurgat, Ednah",JR-3,New Mexico,32:31.55,Mountain West Outdoor Track & Field Championships,2018-05-09,10000,W
+5,"Stoner, Paige",JR-3,Syracuse,32:33.72,Stanford Invitational,2018-03-30,10000,W
+6,"Kelati, Weini",FR-1,New Mexico,32:41.92,Mountain West Outdoor Track & Field Championships,2018-05-09,10000,W
+7,"Finn, Erin",SR-4,Michigan,32:45.51,Big Ten Championships,2018-05-11,10000,W
+8,"Wasike, Dorcas",FR-1,Louisville,32:46.72,ACC Outdoor Championships,2018-05-10,10000,W
+9,"Nadel, Samantha",SR-4,Oregon,33:01.82,Stanford Invitational,2018-03-30,10000,W
+10,"Rohrer, Anna",SO-2,Notre Dame,33:03.30,ACC Outdoor Championships,2018-05-10,10000,W
+11,"Fraser, Vanessa",SR-4,Stanford,33:10.84,2018 Pac-12 Track & Field Championships,2018-05-12,10000,W
+12,"Benner, Kaitlyn",JR-3,Colorado,33:11.50,2018 Pac-12 Track & Field Championships,2018-05-12,10000,W
+13,"Malone, Shannon",SR-4,Syracuse,33:13.16,Stanford Invitational,2018-03-30,10000,W
+14,"Clark, Erin",SR-4,Colorado,33:14.58,2018 Pac-12 Track & Field Championships,2018-05-12,10000,W
+15,"Murphy, Grayson",SR-4,Utah,33:17.85,Mt. SAC Relays,2018-04-19,10000,W
+16,"LaRocco, Lauren",JR-3,Portland,33:18.62,Mt. SAC Relays,2018-04-19,10000,W
+17,"Cunningham, Megan",SR-4,Missouri,33:19.25,2018 Drake Relays presented by Hy-Vee,2018-04-25,10000,W
+18,"Cardama Baez, Carmela",SO-2,Oregon,33:24.39,2018 Pac-12 Track & Field Championships,2018-05-12,10000,W
+19,"Drop, Samantha",SO-2,Georgia,33:28.89,Mt. SAC Relays,2018-04-19,10000,W
+20,"Cash, Alli",SR-4,Oregon,33:30.50,2018 Pac-12 Track & Field Championships,2018-05-12,10000,W
+21,"McNulty, Abbie",JR-3,Stanford,33:31.67,2018 Pac-12 Track & Field Championships,2018-05-12,10000,W
+22,"Mircheva, Militsa",JR-3,Florida State,33:33.70,Stanford Invitational,2018-03-30,10000,W
+23,"Nickerson, Angie",JR-3,Southern Utah,33:34.47,Mt. SAC Relays,2018-04-19,10000,W
+24,"Scavuzzo, Maria",SR-4,Miami (Ohio),33:35.72,2018 Mid-American Conf. Outdoor Track & Field Championships,2018-05-10,10000,W
+25,"O'Keeffe, Fiona",SO-2,Stanford,33:36.25,2018 Pac-12 Track & Field Championships,2018-05-12,10000,W
+26,"Smith, Jaci",JR-3,Air Force,33:36.92,Stanford Invitational,2018-03-30,10000,W
+27,"Rocha, Catarina",SR-4,Providence,33:39.43,BIG EAST Outdoor Track & Field Championships,2018-05-11,10000,W
+28,"Receveur, Katherine",JR-3,Indiana,33:41.22,Big Ten Championships,2018-05-11,10000,W
+29,"Frisbie, Anne",JR-3,Iowa State,33:42.53,Stanford Invitational,2018-03-30,10000,W
+30,"Morley, Makena",SO-2,Colorado,33:42.64,2018 Pac-12 Track & Field Championships,2018-05-12,10000,W
+31,"Miller, Hannah",SO-2,SMU,33:43.35,Stanford Invitational,2018-03-30,10000,W
+32,"Walny, Rachel",JR-3,Bowling Green,33:48.22,Mt. SAC Relays,2018-04-19,10000,W
+33,"Heffernan, Annie",SO-2,Notre Dame,33:48.25,Penn Relays,2018-04-26,10000,W
+34,"Schoneborn, Rabea",SR-4,Texas A&M-CC,33:49.46,Mt. SAC Relays,2018-04-19,10000,W
+35,"Ratcliffe, Megan",SR-4,Brown,33:49.57,Stanford Invitational,2018-03-30,10000,W
+36,"Shine, Andrea",JR-3,Iowa,33:50.25,Stanford Invitational,2018-03-30,10000,W
+37,"Drazba, Maggie",SR-4,West Virginia,33:51.71,Stanford Invitational,2018-03-30,10000,W
+38,"Lasota, Kelsi",JR-3,Montana State,33:51.85,Mt. SAC Relays,2018-04-19,10000,W
+39,"Korir, Vallery",SR-4,Washington St.,33:52.28,Stanford Invitational,2018-03-30,10000,W
+40,"Nun, Melanie",SR-4,Colorado,33:52.44,2018 Pac-12 Track & Field Championships,2018-05-12,10000,W
+41,"McLaughlin, Abigail",SO-2,Columbia,33:53.19,Stanford Invitational,2018-03-30,10000,W
+42,"Alcorta, Caroline",JR-3,North Carolina,33:54.23,Raleigh Relays,2018-03-30,10000,W
+43,"Jeffers, Carleen",JR-3,Brown,33:54.92,Stanford Invitational,2018-03-30,10000,W
+44,"Kemp, Erika",SR-4,North Carolina St.,33:55.38,ACC Outdoor Championships,2018-05-10,10000,W
+45,"Yanek, Mckenzie",FR-1,Alabama,33:58.14,2018 Cardinal Classic,2018-04-20,10000,W
+46,"Zerrenner, Addi",SR-4,Arizona,33:59.63,Stanford Invitational,2018-03-30,10000,W
+47,"O'Brien, Clare",SO-2,Boise State,34:00.33,Mountain West Outdoor Track & Field Championships,2018-05-09,10000,W
+48,"Pyzik, Weronika",JR-3,San Francisco,34:03.23,2018 Brutus Hamilton Invitational,2018-04-28,10000,W
+49,"Sandoval, Jennifer",SO-2,San Jose St.,34:03.65,Stanford Invitational,2018-03-30,10000,W
+50,"Brenner, Courtney",SO-2,Lipscomb,34:03.77,Virginia Challenge,2018-04-20,10000,W
+51,"Gram, Lynsie",SO-2,Michigan State,34:05.55,Raleigh Relays,2018-03-30,10000,W
+52,"Jochen, Karis",SR-4,Texas A&M,34:07.95,Mt. SAC Relays,2018-04-19,10000,W
+53,"Hamilton, Kari",SR-4,Eastern Washington,34:09.85,Mt. SAC Relays,2018-04-19,10000,W
+54,"Neal, Kaitlyn",SO-2,Washington,34:10.05,2018 Pac-12 Track & Field Championships,2018-05-12,10000,W
+55,"Taylor, Charlotte",SR-4,San Francisco,34:10.23,2018 Brutus Hamilton Invitational,2018-04-28,10000,W
+56,"Burda, Bella",JR-3,Villanova,34:11.19,BIG EAST Outdoor Track & Field Championships,2018-05-11,10000,W
+57,"Tostenson, Gracie",JR-3,Boise State,34:14.11,Mountain West Outdoor Track & Field Championships,2018-05-09,10000,W
+58,"McConnochie, Grace",SR-4,Boise State,34:14.18,Stanford Invitational,2018-03-30,10000,W
+59,"Zenkeviciute, Gintare",SR-4,Oklahoma State,34:15.18,Stanford Invitational,2018-03-30,10000,W
+60,"Gilfillan, Darby",JR-3,Colorado St.,34:15.46,Stanford Invitational,2018-03-30,10000,W
+61,"Venters, Emily",FR-1,Boise State,34:16.66,Mountain West Outdoor Track & Field Championships,2018-05-09,10000,W
+62,"Roberts, Aubrey",SO-2,Northwestern,34:17.48,Mt. SAC Relays,2018-04-19,10000,W
+63,"Hackett, Michaela",SR-4,Abilene Christian,34:18.90,Mt. SAC Relays,2018-04-19,10000,W
+64,"Fruchey, Madison",SO-2,Southern Utah,34:19.27,Mt. SAC Relays,2018-04-19,10000,W
+65,"Eckel, Sophie",SO-2,New Mexico,34:19.40,Stanford Invitational,2018-03-30,10000,W
+66,"Hasz, Megan",FR-1,Minnesota,34:19.48,Raleigh Relays,2018-03-30,10000,W
+67,"Allen, Margaret",JR-3,Indiana,34:19.78,Big Ten Championships,2018-05-11,10000,W
+68,"Meyer, Eden",SR-4,North Florida,34:19.91,Raleigh Relays,2018-03-30,10000,W
+69,"Masterson, Andrea",JR-3,Yale,34:22.78,Raleigh Relays,2018-03-30,10000,W
+70,"Lichter, Jennifer",JR-3,Toledo,34:22.82,Raleigh Relays,2018-03-30,10000,W
+71,"Ward, Haley",SR-4,Samford,34:23.19,Virginia Challenge,2018-04-20,10000,W
+72,"Manning, Kassidy",SO-2,Louisville,34:23.74,Raleigh Relays,2018-03-30,10000,W
+73,"Hackett, Alexandria",SR-4,Abilene Christian,34:24.48,Mt. SAC Relays,2018-04-19,10000,W
+74,"Frederick, Christine",SR-4,Ohio State,34:24.74,Raleigh Relays,2018-03-30,10000,W
+75,"Oakley, Brie",FR-1,California,34:25.21,2018 Pac-12 Track & Field Championships,2018-05-12,10000,W
+76,"Rennick, Micayla",SR-4,Tennessee Tech,34:25.22,Virginia Challenge,2018-04-20,10000,W
+77,"Britton, Madeline",SR-4,Xavier (Ohio),34:28.34,Mt. SAC Relays,2018-04-19,10000,W
+78,"Rice, Christina",FR-1,UCLA,34:31.06,2018 Pac-12 Track & Field Championships,2018-05-12,10000,W
+79,"Mulhern, Emily",JR-3,Virginia,34:35.46,Virginia Challenge,2018-04-20,10000,W
+80,"Richardson, Aoibhe",SO-2,Portland,34:35.60,Mt. SAC Relays,2018-04-19,10000,W
+81,"Freix, Sara",SO-2,Virginia Tech,34:36.65,Raleigh Relays,2018-03-30,10000,W
+82,"Tutt, Ashley",FR-1,Northern Illinois,34:37.35,Stanford Invitational,2018-03-30,10000,W
+83,"Carter, Kashley",JR-3,Utah State,34:37.87,Stanford Invitational,2018-03-30,10000,W
+84,"Brysting, Josephine",JR-3,San Francisco,34:38.24,Stanford Invitational,2018-03-30,10000,W
+85,"Ortega, Samantha",SO-2,Arizona State,34:38.39,Mt. SAC Relays,2018-04-19,10000,W
+86,"Jepkirui, Joan",JR-3,Toledo,34:38.72,2018 Mid-American Conf. Outdoor Track & Field Championships,2018-05-10,10000,W
+87,"Richter, Colette",SR-4,Oregon State,34:39.47,Stanford Invitational,2018-03-30,10000,W
+88,"McDermitt, Jordann",SR-4,Eastern Michigan,34:40.92,2018 Mid-American Conf. Outdoor Track & Field Championships,2018-05-10,10000,W
+89,"Hatch, Emma",SR-4,Loyola (Ill.),34:41.02,Mt. SAC Relays,2018-04-19,10000,W
+90,"Vorgitch, Madelyn",SR-4,Loyola Marymount,34:41.52,Mt. SAC Relays,2018-04-19,10000,W
+91,"McLaughlin, Erin",SR-4,Cornell,34:42.83,Bison Outdoor Classic,2018-04-14,10000,W
+92,"Munks, Kathryn",SO-2,Penn State,34:45.11,Big Ten Championships,2018-05-11,10000,W
+93,"Halvorsen, Samantha",FR-1,Wake Forest,34:45.37,Raleigh Relays,2018-03-30,10000,W
+94,"Coonfield, Morgin",FR-1,Nevada,34:45.86,San Francisco State Distance Carnival,2018-03-30,10000,W
+95,"Koskei, Winny",FR-1,Wichita State,34:47.00,Stanford Invitational,2018-03-30,10000,W
+96,"Palmer, Noel",FR-1,Liberty,34:47.26,Raleigh Relays,2018-03-30,10000,W
+97,"Hill, Olivia",SO-2,West Virginia,34:47.73,Stanford Invitational,2018-03-30,10000,W
+98,"Condie, Andrea",JR-3,Idaho,34:48.08,Stanford Invitational,2018-03-30,10000,W
+99,"Thurston, Jordan",SR-4,Gonzaga,34:48.51,Portland Twilight,2018-05-11,10000,W
+100,"Sorensen, Shaelyn",JR-3,Wisconsin,34:48.93,Mt. SAC Relays,2018-04-19,10000,W
+1,"Scott, Dominique",SR-4,Arkansas,31:56.84,Payton Jordan Invitational,2016-05-01,10000,W
+2,"Smith, Courtney",SO-2,Harvard,32:08.32,Stanford Invitational,2016-04-01,10000,W
+3,"Blaase, Chelsea",JR-3,Tennessee,32:08.39,Stanford Invitational,2016-04-01,10000,W
+4,"Wright, Alice",JR-3,New Mexico,32:36.11,Payton Jordan Invitational,2016-05-01,10000,W
+5,"Peloquin, Brenna",FR-1,Boise State,33:03.48,Payton Jordan Invitational,2016-05-01,10000,W
+6,"Everson, Hannah",SR-4,Air Force,33:05.26,Stanford Invitational,2016-04-01,10000,W
+7,"Pratt, Olivia",JR-3,Butler,33:08.31,Stanford Invitational,2016-04-01,10000,W
+8,"Lokedi, Sharon",SO-2,Kansas,33:10.06,Stanford Invitational,2016-04-01,10000,W
+9,"Grabill, Molly",SR-4,Oregon,33:13.64,Stanford Invitational,2016-04-01,10000,W
+10,"LaRocco, Lauren",SO-2,Portland,33:15.75,Stanford Invitational,2016-04-01,10000,W
+11,"Knight, Katie",JR-3,Washington,33:20.02,Pac-12 Outdoor Track & Field Championships,2016-05-14,10000,W
+12,"Tuite, Shaylyn",JR-3,Syracuse,33:22.04,Stanford Invitational,2016-04-01,10000,W
+13,"Gomez, Kinsey",SR-4,Idaho,33:23.59,Stanford Invitational,2016-04-01,10000,W
+14,"Juodeskaite, Monika",SR-4,Oklahoma State,33:23.93,Payton Jordan Invitational,2016-05-01,10000,W
+15,"Blaney, Anne-Marie",JR-3,UCF,33:24.33,Stanford Invitational,2016-04-01,10000,W
+16,"Taylor, Charlotte",JR-3,San Francisco,33:25.09,Stanford Invitational,2016-04-01,10000,W
+17,"Jameson, Tara",SR-4,Iona,33:38.50,Virginia Challenge,2016-04-22,10000,W
+18,"Bean, Emily",SO-2,Mississippi,33:39.36,Stanford Invitational,2016-04-01,10000,W
+19,"Rocha, Catarina",SO-2,Providence,33:40.30,Stanford Invitational,2016-04-01,10000,W
+20,"Reiter, Sarah",JR-3,Eastern Washington,33:46.71,Stanford Invitational,2016-04-01,10000,W
+21,"England, Mary Alex",JR-3,Mississippi,33:47.91,Stanford Invitational,2016-04-01,10000,W
+22,"Kellner, Caroline",SR-4,Cornell,33:51.94,Bruin Legends of T&F Distance Carnival,2016-04-01,10000,W
+23,"Caldwell, Mackenzie",SO-2,Colorado,33:52.08,Pac-12 Outdoor Track & Field Championships,2016-05-14,10000,W
+24,"Reddy, Rachael",FR-1,Alabama,33:55.23,Stanford Invitational,2016-04-01,10000,W
+25,"Huston, Emma",SR-4,Drake,33:55.89,Mt. SAC Relays,2016-04-14,10000,W
+26,"Malone, Margo",SR-4,Syracuse,33:55.93,Stanford Invitational,2016-04-01,10000,W
+27,"Fraser, Vanessa",JR-3,Stanford,33:55.99,Pac-12 Outdoor Track & Field Championships,2016-05-14,10000,W
+28,"Verdon, Carrie",SR-4,Colorado,33:56.19,Pac-12 Outdoor Track & Field Championships,2016-05-14,10000,W
+29,"Wittman, Hannah",SR-4,Belmont,33:59.63,Mt. SAC Relays,2016-04-14,10000,W
+30,"Townsend, Melanie",SR-4,Northern Arizona,34:00.24,Mt. SAC Relays,2016-04-14,10000,W
+31,"Hooker, Erin",SO-2,Iowa State,34:00.92,Stanford Invitational,2016-04-01,10000,W
+32,"Pelletier, Alexa",SO-2,Notre Dame,34:02.08,Virginia Challenge,2016-04-22,10000,W
+33,"Collins, Sarah",JR-3,Providence,34:03.07,Penn Relays,2016-04-28,10000,W
+34,"Farello, Anna",JR-3,Portland,34:03.67,Stanford Invitational,2016-04-01,10000,W
+35,"Roper, Cali",JR-3,Rice,34:05.21,Mt. SAC Relays,2016-04-14,10000,W
+36,"Linton, CharLee",SR-4,Washington St.,34:05.29,Stanford Invitational,2016-04-01,10000,W
+37,"Busch, Kristen",SR-4,Bradley,34:05.93,Stanford Invitational,2016-04-01,10000,W
+38,"Schmaedick, Maggie",JR-3,Oregon,34:06.47,Stanford Invitational,2016-04-01,10000,W
+39,"Fischer, Kaitlyn",JR-3,Missouri,34:10.30,Mt. SAC Relays,2016-04-14,10000,W
+40,"Stites, Emily",SR-4,William and Mary,34:10.81,CAA Outdoor Track and Field Championships,2016-05-06,10000,W
+41,"Tullis, Brooke",SR-4,Toledo,34:11.33,Stanford Invitational,2016-04-01,10000,W
+42,"Hoffmann, Christine",JR-3,UC Davis,34:11.43,Stanford Invitational,2016-04-01,10000,W
+43,"Long, Lindy",JR-3,Air Force,34:12.05,Stanford Invitational,2016-04-01,10000,W
+44,"Schulist, Rachele",SR-4,Michigan State,34:12.23,Raleigh Relays,2016-03-25,10000,W
+45,"Wiersma, Alexis",JR-3,Michigan State,34:12.41,Raleigh Relays,2016-03-25,10000,W
+46,"Baker, Natalie",JR-3,Oklahoma State,34:12.59,Stanford Invitational,2016-04-01,10000,W
+47,"Reina, Valerie",JR-3,Arkansas,34:13.11,SEC Championships,2016-05-12,10000,W
+48,"Kempfer, Jamie",FR-1,Missouri,34:13.68,SEC Championships,2016-05-12,10000,W
+49,"Gilfillan, Darby",SO-2,Colorado St.,34:13.70,Stanford Invitational,2016-04-01,10000,W
+50,"Flanagan, Kaylee",JR-3,Washington,34:13.76,Pac-12 Outdoor Track & Field Championships,2016-05-14,10000,W
+51,"Berkholtz, Liz",SR-4,Minnesota,34:14.01,Virginia Challenge,2016-04-22,10000,W
+51,"Mundy, Chanli",SO-2,Indiana,34:14.01,Stanford Invitational,2016-04-01,10000,W
+53,"Gaye, Michelle",SR-4,SMU,34:16.87,Stanford Invitational,2016-04-01,10000,W
+54,"Eder, Veronica",JR-3,Auburn,34:17.59,Raleigh Relays,2016-03-25,10000,W
+55,"Van Ord, Tristin",JR-3,Appalachian State,34:19.36,Raleigh Relays,2016-03-25,10000,W
+56,"Sereno, Gina",JR-3,Michigan,34:19.39,Big Ten Conference Outdoor Track & Field Championships,2016-05-13,10000,W
+57,"Busch, Caitlin",SR-4,Bradley,34:20.65,Stanford Invitational,2016-04-01,10000,W
+58,"Jochen, Karis",JR-3,Texas A&M,34:20.67,SEC Championships,2016-05-12,10000,W
+59,"McDermitt, Jordann",SO-2,Eastern Michigan,34:21.18,Stanford Invitational,2016-04-01,10000,W
+60,"Barrett, Tessa",FR-1,Penn State,34:22.03,Big Ten Conference Outdoor Track & Field Championships,2016-05-13,10000,W
+61,"Christen, Hannah",SO-2,North Carolina,34:23.40,Mt. SAC Relays,2016-04-14,10000,W
+62,"Tretbar, Brittany",JR-3,Oklahoma,34:24.21,Stanford Invitational,2016-04-01,10000,W
+63,"Arriaza, Elena",JR-3,Oklahoma,34:25.15,Stanford Invitational,2016-04-01,10000,W
+64,"Crookes, Lucy",SR-4,UAB,34:26.06,Stanford Invitational,2016-04-01,10000,W
+65,"Anzalone, Gabi",SR-4,Wisconsin,34:26.26,Big Ten Conference Outdoor Track & Field Championships,2016-05-13,10000,W
+66,"Stewart, Kathleen",SR-4,James Madison,34:26.52,Raleigh Relays,2016-03-25,10000,W
+67,"Korir, Vallery",SO-2,Murray State,34:27.04,Virginia Challenge,2016-04-22,10000,W
+68,"Jackson, Shelby",SR-4,Michigan State,34:27.37,Big Ten Conference Outdoor Track & Field Championships,2016-05-13,10000,W
+69,"Fluehr, Kathryn",SR-4,Princeton,34:29.59,Sam Howell (College),2016-04-08,10000,W
+70,"Boyd, Cleo",JR-3,Virginia,34:29.60,ACC Championships,2016-05-13,10000,W
+71,"Thackery, Calli",JR-3,New Mexico,34:30.24,Mountain West Championships,2016-05-11,10000,W
+72,"Zerrenner, Addi",SO-2,Arizona,34:33.02,Mt. SAC Relays,2016-04-14,10000,W
+73,"Olivas, Adriana",JR-3,Arizona State,34:33.33,Stanford Invitational,2016-04-01,10000,W
+74,"Lembo, Katie",SO-2,Providence,34:36.66,BIG EAST Outdoor Track & Field Championships,2016-05-13,10000,W
+75,"Caro, Jocelyn",JR-3,Texas Tech,34:36.85,Mt. SAC Relays,2016-04-14,10000,W
+76,"Marella, Allison",SO-2,Towson,34:37.93,Raleigh Relays,2016-03-25,10000,W
+77,"Lichter, Jennifer",FR-1,Toledo,34:38.83,Raleigh Relays,2016-03-25,10000,W
+78,"Boman , Amanda",SR-4,Portland State,34:40.09,Mt. SAC Relays,2016-04-14,10000,W
+79,"Ball, Barbara Lee",JR-3,Lipscomb,34:40.32,Virginia Challenge,2016-04-22,10000,W
+80,"Kriege, Mary",SR-4,Santa Clara,34:40.38,Stanford Invitational,2016-04-01,10000,W
+81,"Shwayder, Elianna",SO-2,Harvard,34:40.83,Raleigh Relays,2016-03-25,10000,W
+82,"Brown, Shelby",SO-2,Mississippi,34:41.08,Stanford Invitational,2016-04-01,10000,W
+83,"Linde, Maura",SR-4,Syracuse,34:41.76,Stanford Invitational,2016-04-01,10000,W
+84,"Berry, Savannah",SO-2,Utah Valley,34:42.13,Mt. SAC Relays,2016-04-14,10000,W
+85,"Whetten, Hailey",JR-3,Weber State,34:43.09,Mt. SAC Relays,2016-04-14,10000,W
+86,"Kidane, Kidan",JR-3,Kennesaw State,34:43.16,Virginia Challenge,2016-04-22,10000,W
+87,"Minagawa, Minori",SR-4,Ohio State,34:43.52,Raleigh Relays,2016-03-25,10000,W
+88,"Westphal, Liv",SR-4,Boston College,34:43.58,ACC Championships,2016-05-13,10000,W
+89,"Kamrani, Pegah",JR-3,Columbia,34:43.88,Virginia Challenge,2016-04-22,10000,W
+90,"Sang, Caroline",SO-2,Charlotte,34:44.76,Penn Relays,2016-04-28,10000,W
+91,"Mateescu, Nicolette",SR-4,Rider,34:45.34,Raleigh Relays,2016-03-25,10000,W
+92,"Larson, Sally",JR-3,Lipscomb,34:45.60,Virginia Challenge,2016-04-22,10000,W
+93,"Short, Amber",SR-4,New Hampshire,34:46.37,Raleigh Relays,2016-03-25,10000,W
+94,"Hildreth, Kelsey",SO-2,Northern Illinois,34:47.11,Mid-American Conference Championship,2016-05-12,10000,W
+95,"Schubert, Kelly",JR-3,Central Michigan,34:48.04,Virginia Challenge,2016-04-22,10000,W
+96,"Plombon, Savanna",SR-4,West Virginia,34:48.76,Virginia Challenge,2016-04-22,10000,W
+97,"Britton, Madeline",SO-2,Xavier (Ohio),34:48.93,Penn Relays,2016-04-28,10000,W
+98,"Kennedy, Isabelle",SO-2,Boston College,34:49.02,ACC Championships,2016-05-13,10000,W
+99,"McGovern, Meghan",SR-4,William and Mary,34:49.60,CAA Outdoor Track and Field Championships,2016-05-06,10000,W
+100,"Silva, Yesenia",JR-3,BYU,34:50.62,Mt. SAC Relays,2016-04-14,10000,W
+1,"Ostrander, Allie",JR-3,Boise State,32:06.71,Stanford Invitational,2019-03-29,10000,W
+2,"Stoner, Paige",SR-4,Syracuse,32:07.36,Stanford Invitational,2019-03-29,10000,W
+3,"Kelati, Weini",SO-2,New Mexico,32:09.10,Mountain West Outdoor Track & Field Championship,2019-05-08,10000,W
+4,"Kurgat, Ednah",SR-4,New Mexico,32:14.27,Stanford Invitational,2019-03-29,10000,W
+5,"Batt-Doyle, Isobel",SR-4,Washington,32:20.84,Stanford Invitational,2019-03-29,10000,W
+6,"Werner, Taylor",SO-2,Arkansas,32:26.38,Stanford Invitational,2019-03-29,10000,W
+7,"Mircheva, Militsa",SR-4,Florida State,32:30.07,Stanford Invitational,2019-03-29,10000,W
+8,"Vestri, Amanda",SO-2,Iowa State,32:39.93,Stanford Invitational,2019-03-29,10000,W
+9,"Alcorta, Caroline",SR-4,Villanova,32:53.26,Stanford Invitational,2019-03-29,10000,W
+10,"Allen, Margaret",SR-4,Indiana,32:54.80,Stanford Invitational,2019-03-29,10000,W
+11,"Cardama Baez, Carmela",JR-3,Oregon,32:55.50,Stanford Invitational,2019-03-29,10000,W
+12,"Frisbie, Anne",SR-4,Iowa State,32:58.64,Stanford Invitational,2019-03-29,10000,W
+13,"Monson, Alicia",JR-3,Wisconsin,33:02.91,Stanford Invitational,2019-03-29,10000,W
+14,"LaRocco, Lauren",SR-4,Portland,33:06.79,Stanford Invitational,2019-03-29,10000,W
+15,"Hasz, Megan",SO-2,Minnesota,33:09.57,Stanford Invitational,2019-03-29,10000,W
+16,"Receveur, Katherine",SR-4,Indiana,33:10.90,Big Ten Championships,2019-05-10,10000,W
+17,"Davis, Amy",JR-3,Wisconsin,33:12.26,Big Ten Championships,2019-05-10,10000,W
+18,"Nickerson, Angie",SR-4,Southern Utah,33:12.87,Mt. SAC Relays,2019-04-18,10000,W
+19,"Gaughan, Jacqueline",FR-1,Notre Dame,33:13.39,125th Penn Relays,2019-04-25,10000,W
+20,"Munks, Kathryn",JR-3,Penn State,33:22.19,Big Ten Championships,2019-05-10,10000,W
+21,"Paternain, Julia",FR-1,Penn State,33:22.91,Big Ten Championships,2019-05-10,10000,W
+22,"Finn, Erin",SR-4,Michigan,33:23.17,Big Ten Championships,2019-05-10,10000,W
+23,"Miller, Hannah",JR-3,SMU,33:23.89,Stanford Invitational,2019-03-29,10000,W
+24,"Rome, Regan",SR-4,Providence,33:26.39,Stanford Invitational,2019-03-29,10000,W
+25,"Wasike, Dorcas",SO-2,Louisville,33:28.30,Raleigh Relays,2019-03-29,10000,W
+26,"Sorensen, Shaelyn",SR-4,Wisconsin,33:29.70,Stanford Invitational,2019-03-29,10000,W
+27,"McNulty, Abbie",SR-4,Stanford,33:30.57,Stanford Invitational,2019-03-29,10000,W
+28,"Rohrer, Anna",SR-4,Notre Dame,33:30.73,ACC Championships,2019-05-09,10000,W
+29,"Funderburk, Elizabeth",FR-1,Florida State,33:31.05,Stanford Invitational,2019-03-29,10000,W
+30,"Neal, Kaitlyn",JR-3,Washington,33:31.43,Stanford Invitational,2019-03-29,10000,W
+31,"Carnahan, Savannah",JR-3,Furman,33:35.11,Raleigh Relays,2019-03-29,10000,W
+32,"Bowden, Philippa",SR-4,Oregon,33:35.63,Stanford Invitational,2019-03-29,10000,W
+33,"Koech, Winny",JR-3,UTEP,33:35.68,Mt. SAC Relays,2019-04-18,10000,W
+34,"Logue, Cailie",SO-2,Iowa State,33:36.00,Big 12 Outdoor Track and Field Championships,2019-05-10,10000,W
+35,"Benner, Kaitlyn",SR-4,Colorado,33:36.38,2019 Pac-12 Track & Field Championships,2019-05-04,10000,W
+36,"Dickinson, Laura",SO-2,Syracuse,33:37.37,Stanford Invitational,2019-03-29,10000,W
+37,"Sandoval, Jennifer",JR-3,San Jose St.,33:37.38,Stanford Invitational,2019-03-29,10000,W
+38,"Morley, Makena",JR-3,Colorado,33:37.47,2019 Pac-12 Track & Field Championships,2019-05-04,10000,W
+39,"Gram, Lynsie",JR-3,Michigan State,33:38.27,Raleigh Relays,2019-03-29,10000,W
+40,"O'Brien, Clare",JR-3,Boise State,33:39.43,Bryan Clay Invitational,2019-04-17,10000,W
+41,"Ozanne-Jaques, Clio",SO-2,Ole Miss,33:42.06,Raleigh Relays,2019-03-29,10000,W
+42,"Frederick, Christine",SR-4,Ohio State,33:46.57,Raleigh Relays,2019-03-29,10000,W
+43,"Koskei, Winny",SO-2,Wichita State,33:50.68,Stanford Invitational,2019-03-29,10000,W
+44,"Snyder, Alyssa",JR-3,Utah State,33:50.95,Mt. SAC Relays,2019-04-18,10000,W
+45,"Somers, Taylor",JR-3,Oklahoma State,33:51.17,Stanford Invitational,2019-03-29,10000,W
+46,"Dodge, Jenica",SR-4,Idaho State,33:51.59,Stanford Invitational,2019-03-29,10000,W
+47,"Klopfer, Caitlin",JR-3,Tulsa,33:51.85,Stanford Invitational,2019-03-29,10000,W
+48,"Ojstersek, Svenja",SR-4,SMU,33:51.97,Stanford Invitational,2019-03-29,10000,W
+49,"Johnson, India",FR-1,Michigan State,33:54.77,Big Ten Championships,2019-05-10,10000,W
+50,"Lasota, Kelsi",SR-4,Montana State,33:55.58,Mt. SAC Relays,2019-04-18,10000,W
+51,"Brewis, Lindsey",SR-4,Loyola (Ill.),33:56.32,Raleigh Relays,2019-03-29,10000,W
+52,"Palmer, Noel",SO-2,Liberty,33:56.67,Raleigh Relays,2019-03-29,10000,W
+53,"Denner, Maddy",FR-1,Notre Dame,34:00.45,ACC Championships,2019-05-09,10000,W
+54,"Poe, Jeralyn",JR-3,Michigan State,34:01.85,Big Ten Championships,2019-05-10,10000,W
+55,"Freix, Sara",JR-3,Virginia Tech,34:02.82,ACC Championships,2019-05-09,10000,W
+56,"Halvorsen, Samantha",SO-2,Wake Forest,34:02.93,ACC Championships,2019-05-09,10000,W
+57,"Scholl, Tabor",JR-3,Colorado,34:03.73,2019 Pac-12 Track & Field Championships,2019-05-04,10000,W
+58,"McLaughlin, Abigail",JR-3,Columbia,34:05.78,Stanford Invitational,2019-03-29,10000,W
+59,"Pascoe, Jessica",JR-3,Florida,34:08.41,SEC Outdoor Track & Field Championships,2019-05-09,10000,W
+60,"Brenner, Courtney",JR-3,Lipscomb,34:09.37,Mt. SAC Relays,2019-04-18,10000,W
+61,"Shine, Andrea",SR-4,Iowa,34:10.24,Stanford Invitational,2019-03-29,10000,W
+62,"Pyzik, Weronika",SR-4,Oregon,34:10.29,Oregon State High Performance Meet,2019-04-26,10000,W
+63,"Masterson, Andrea",SR-4,Yale,34:10.34,Raleigh Relays,2019-03-29,10000,W
+64,"Thompson, Lexie",JR-3,Weber State,34:12.23,Stanford Invitational,2019-03-29,10000,W
+65,"Gibson, Kaila",JR-3,Portland State,34:12.51,Stanford Invitational,2019-03-29,10000,W
+66,"Sanga, PURITY",SO-2,Tennessee Tech,34:13.03,Raleigh Relays,2019-03-29,10000,W
+67,"Ness, Bailey",SR-4,Colorado St.,34:14.01,Stanford Invitational,2019-03-29,10000,W
+68,"Smith , Meredith",SR-4,Wake Forest,34:14.04,Raleigh Relays,2019-03-29,10000,W
+69,"Freyhof, Erika",SO-2,Nebraska,34:16.54,Big Ten Championships,2019-05-10,10000,W
+70,"Brady, Teri",JR-3,Air Force,34:16.60,Stanford Invitational,2019-03-29,10000,W
+71,"Kigen, Brenda",JR-3,Auburn,34:19.12,SEC Outdoor Track & Field Championships,2019-05-09,10000,W
+72,"Schneider, Maggie",SO-2,Oakland,34:20.08,Virginia Challenge,2019-04-19,10000,W
+73,"Way, Amber",JR-3,Michigan State,34:20.19,Big Ten Championships,2019-05-10,10000,W
+74,"Stone , Heather",SO-2,South Carolina,34:20.22,SEC Outdoor Track & Field Championships,2019-05-09,10000,W
+75,"Hebner, Monica",FR-1,Duke,34:20.90,Raleigh Relays,2019-03-29,10000,W
+76,"Tank, Poppy",JR-3,Utah,34:21.21,2019 Pac-12 Track & Field Championships,2019-05-04,10000,W
+77,"Richardson, Aoibhe",JR-3,Portland,34:22.05,Mt. SAC Relays,2019-04-18,10000,W
+78,"O'Neil, Megan",SR-4,Central Michigan,34:22.09,Raleigh Relays,2019-03-29,10000,W
+79,"Heffernan, Annie",JR-3,Notre Dame,34:23.08,125th Penn Relays,2019-04-25,10000,W
+80,"Simmons, Victoria",SO-2,Ole Miss,34:24.00,Raleigh Relays,2019-03-29,10000,W
+81,"O'Brien, Patty",SR-4,Minnesota,34:24.40,Stanford Invitational,2019-03-29,10000,W
+82,"Driscoll, Ashley",JR-3,Texas A&M,34:24.65,SEC Outdoor Track & Field Championships,2019-05-09,10000,W
+83,"Rice, Christina",SO-2,UCLA,34:25.25,Bob Larsen Distance Carnival,2019-03-29,10000,W
+84,"Yarbrough, Caroline",SR-4,Davidson,34:27.15,Atlantic 10 Outdoor Track & Field Championships,2019-05-04,10000,W
+85,"Chemutai, Ivine",SO-2,Louisville,34:27.39,ACC Championships,2019-05-09,10000,W
+86,"Kleve, Jordyn",JR-3,Missouri,34:27.87,SEC Outdoor Track & Field Championships,2019-05-09,10000,W
+87,"Delanis, Emeline",JR-3,Boston College,34:28.22,Stanford Invitational,2019-03-29,10000,W
+88,"Condie, Andrea",SR-4,Idaho,34:28.42,Stanford Invitational,2019-03-29,10000,W
+89,"Hill, Olivia",JR-3,West Virginia,34:28.43,Stanford Invitational,2019-03-29,10000,W
+90,"Howard, Becca",SR-4,Portland,34:29.96,Mt. SAC Relays,2019-04-18,10000,W
+91,"Royston, Emily",SO-2,Milwaukee,34:30.13,Bison Outdoor Classic,2019-04-13,10000,W
+92,"Sherman, Cara",SR-4,Albany,34:30.72,Virginia Challenge,2019-04-19,10000,W
+93,"Mulhern, Emily",JR-3,VCU,34:31.44,Raleigh Relays,2019-03-29,10000,W
+94,"Hebner, Isabel",FR-1,Penn,34:32.03,Raleigh Relays,2019-03-29,10000,W
+95,"Ruffo, Kerri",SR-4,Northeastern,34:32.79,Raleigh Relays,2019-03-29,10000,W
+96,"Myers, Miranda",SR-4,Northern Arizona,34:33.56,Stanford Invitational,2019-03-29,10000,W
+97,"Dobbs, Hiley",SO-2,Nevada,34:33.91,Mountain West Outdoor Track & Field Championship,2019-05-08,10000,W
+98,"Warren, Kelsie",JR-3,Texas A&M,34:34.13,SEC Outdoor Track & Field Championships,2019-05-09,10000,W
+99,"Rafuse, Emma",SR-4,Purdue Fort Wayne,34:34.93,Raleigh Relays,2019-03-29,10000,W
+100,"Jacob, Jordan",JR-3,Boise State,34:36.57,Mountain West Outdoor Track & Field Championship,2019-05-08,10000,W
+1,"Sisson, Emily",SR-4,Providence,31:38.03,Payton Jordan Invitational,2015-05-02,10000,W
+2,"Avery, Kate",JR-3,Iona,31:41.44,Payton Jordan Invitational,2015-05-02,10000,W
+3,"Scott, Dominique",JR-3,Arkansas,32:11.60,Stanford Invitational,2015-04-03,10000,W
+4,"Bates, Emma",SR-4,Boise State,32:13.28,Payton Jordan Invitational,2015-05-02,10000,W
+5,"Blaase, Chelsea",SO-2,Tennessee,32:28.39,Stanford Invitational,2015-04-03,10000,W
+6,"Malone, Margo",JR-3,Syracuse,32:29.89,Stanford Invitational,2015-04-03,10000,W
+7,"Wright, Alice",FR-1,New Mexico,32:56.33,Stanford Invitational,2015-04-03,10000,W
+8,"Kibet, Elvin",SR-4,Arizona,32:57.00,Stanford Invitational,2015-04-03,10000,W
+9,"Thompson, Joanna",SR-4,North Carolina St.,33:07.27,Stanford Invitational,2015-04-03,10000,W
+10,"Moen, Katy",SR-4,Iowa State,33:09.63,Payton Jordan Invitational,2015-05-02,10000,W
+11,"Johnson, Rachel",SR-4,Baylor,33:11.98,Stanford Invitational,2015-04-03,10000,W
+12,"Kemp, Erika",SO-2,North Carolina St.,33:13.44,Stanford Invitational,2015-04-03,10000,W
+13,"Soethout, Jana",SR-4,San Francisco,33:30.30,Stanford Invitational,2015-04-03,10000,W
+14,"Kellner, Caroline",JR-3,Cornell,33:32.07,Stanford Invitational,2015-04-03,10000,W
+15,"Sachtleben, Bethany",SR-4,George Mason,33:32.53,Stanford Invitational,2015-04-03,10000,W
+16,"Grabill, Molly",JR-3,Oregon,33:33.20,Stanford Invitational,2015-04-03,10000,W
+17,"Montgomery, Hillary",SR-4,Texas A&M,33:34.58,Stanford Invitational,2015-04-03,10000,W
+18,"Siebert, Megan",SR-4,Texas,33:37.89,Stanford Invitational,2015-04-03,10000,W
+19,"Seidel, Molly",JR-3,Notre Dame,33:39.70,ACC Outdoor Track & Field Championships,2015-05-14,10000,W
+20,"Mildes, Jessica",JR-3,Gonzaga,33:40.82,Stanford Invitational,2015-04-03,10000,W
+21,"Westphal, Liv",JR-3,Boston College,33:42.03,ACC Outdoor Track & Field Championships,2015-05-14,10000,W
+22,"Fischer, Kaitlyn",SO-2,Missouri,33:43.05,Stanford Invitational,2015-04-03,10000,W
+23,"Flanagan, Kaylee",SO-2,Washington,33:43.26,Stanford Invitational,2015-04-03,10000,W
+24,"Gillespie, Katie",SR-4,West Virginia,33:45.56,Big 12 Outdoor Track & Field Championships,2015-05-15,10000,W
+25,"Schmaedick, Maggie",SO-2,Oregon,33:46.14,Stanford Invitational,2015-04-03,10000,W
+26,"Aubert, Kristina",SR-4,Arizona,33:47.66,Stanford Invitational,2015-04-03,10000,W
+27,"Page, Holly",SR-4,Wyoming,33:49.66,Stanford Invitational,2015-04-03,10000,W
+28,"Haughey, Sinead",SR-4,Furman,33:53.34,Stanford Invitational,2015-04-03,10000,W
+29,"Brender, Melanie",SR-4,Michigan State,33:53.49,Raleigh Relays,2015-03-27,10000,W
+30,"Gomell, Annika",SR-4,Saint Louis,33:54.72,Stanford Invitational,2015-04-03,10000,W
+31,"Finn, Erin",SO-2,Michigan,33:54.85,Big Ten Outdoor Track & Field Championships,2015-05-15,10000,W
+32,"Robison, Diane",SR-4,Arkansas,33:55.12,SEC Championships,2015-05-14,10000,W
+33,"Jube, Carrie",JR-3,BYU,33:56.87,Stanford Invitational,2015-04-03,10000,W
+34,"Winterton, Rebekah",SR-4,Utah,33:57.31,Stanford Invitational,2015-04-03,10000,W
+35,"Behnke, Amanda",SO-2,Indiana,33:59.60,Stanford Invitational,2015-04-03,10000,W
+36,"Wiersma, Alexis",SO-2,Michigan State,34:00.23,Raleigh Relays,2015-03-27,10000,W
+37,"Tonn, Jessica",SR-4,Stanford,34:00.33,Pac-12 Track & Field Championships,2015-05-15,10000,W
+38,"Mullins, Lauren",JR-3,Providence,34:00.56,2015 Penn Relays,2015-04-23,10000,W
+39,"Roper, Cali",JR-3,Rice,34:01.75,Mt. SAC Relays,2015-04-16,10000,W
+40,"Golick, Bronte",SR-4,UCLA,34:03.41,Mt. SAC Relays,2015-04-16,10000,W
+41,"Stites, Emily",JR-3,William and Mary,34:03.43,2015 Colonial Relays,2015-04-02,10000,W
+42,"Neer, Waverly",SR-4,Oregon,34:03.59,Pac-12 Track & Field Championships,2015-05-15,10000,W
+43,"Linton, CharLee",JR-3,Washington St.,34:03.69,Stanford Invitational,2015-04-03,10000,W
+44,"Jochen, Karis",SO-2,Texas A&M,34:06.03,Stanford Invitational,2015-04-03,10000,W
+45,"Kelto, Abbey",SR-4,Central Michigan,34:06.81,Stanford Invitational,2015-04-03,10000,W
+46,"Fraser, Vanessa",SO-2,Stanford,34:07.00,Pac-12 Track & Field Championships,2015-05-15,10000,W
+47,"Curham, Megan",SO-2,Princeton,34:07.08,2015 Walt Disney World Track & Field Open (College/Una/Club),2015-03-20,10000,W
+48,"Peer, Anna",SO-2,Nebraska,34:10.58,Mt. SAC Relays,2015-04-16,10000,W
+49,"Linde, Maura",JR-3,Syracuse,34:12.00,Stanford Invitational,2015-04-03,10000,W
+50,"Smith, Kelsey",SR-4,UCLA,34:12.82,Mt. SAC Relays,2015-04-16,10000,W
+51,"Eichkorn, Amber",JR-3,South Dakota,34:12.98,Mt. SAC Relays,2015-04-16,10000,W
+52,"Levene, Abigail",SR-4,Colorado,34:15.20,Pac-12 Track & Field Championships,2015-05-15,10000,W
+53,"McDermitt, Jordann",FR-1,Eastern Michigan,34:15.99,Raleigh Relays,2015-03-27,10000,W
+54,"Anzalone, Gabi",SR-4,Wisconsin,34:16.21,Stanford Invitational,2015-04-03,10000,W
+55,"Busch, Kristen",JR-3,Bradley,34:17.84,Stanford Invitational,2015-04-03,10000,W
+56,"Knights, Bethan",FR-1,California,34:17.95,Pac-12 Track & Field Championships,2015-05-15,10000,W
+57,"Petersen, Jessie",SR-4,Syracuse,34:18.63,Virginia Challenge,2015-04-17,10000,W
+58,"Fletcher, Grace",SR-4,Texas A&M,34:19.99,Stanford Invitational,2015-04-03,10000,W
+59,"Gaye, Michelle",JR-3,Marist,34:20.07,Stanford Invitational,2015-04-03,10000,W
+60,"Tullis, Brooke",JR-3,Toledo,34:21.19,Mt. SAC Relays,2015-04-16,10000,W
+61,"Hildreth, Kelsey",FR-1,Northern Illinois,34:21.42,2015 Penn Relays,2015-04-23,10000,W
+62,"Knight, Katie",SO-2,Washington,34:21.84,Pac-12 Track & Field Championships,2015-05-15,10000,W
+63,"Van Ord, Tristin",SO-2,Appalachian State,34:23.08,Raleigh Relays,2015-03-27,10000,W
+64,"Moreno, Daniella",SR-4,UC Santa Barbara,34:23.18,Stanford Invitational,2015-04-03,10000,W
+65,"Kelly, Annie",FR-1,Colorado,34:23.60,Pac-12 Track & Field Championships,2015-05-15,10000,W
+66,"Arriaza, Elena",SO-2,Oklahoma,34:23.93,Stanford Invitational,2015-04-03,10000,W
+67,"Hassett, Dylan",SR-4,William and Mary,34:26.95,CAA Outdoor Track and Field Championships,2015-05-01,10000,W
+68,"Olson, Mara",SR-4,Butler,34:27.01,BIG EAST Outdoor Track & Field Championships,2015-05-08,10000,W
+69,"Minagawa, Sakiko",JR-3,Ohio State,34:27.31,Stanford Invitational,2015-04-03,10000,W
+70,"Chambers, Madeline",SR-4,Georgetown,34:28.94,BIG EAST Outdoor Track & Field Championships,2015-05-08,10000,W
+71,"Durgin, Emily",SO-2,Connecticut,34:30.49,The American Outdoor Track & Field Championships,2015-05-14,10000,W
+72,"Fluehr, Kathryn",JR-3,Princeton,34:30.74,2015 Walt Disney World Track & Field Open (College/Una/Club),2015-03-20,10000,W
+73,"Busch, Caitlin",JR-3,Bradley,34:30.78,Stanford Invitational,2015-04-03,10000,W
+74,"Everson, Hannah",JR-3,Air Force,34:31.48,Stanford Invitational,2015-04-03,10000,W
+75,"Graham-Zamudio, Grace",SR-4,Loyola Marymount,34:32.06,Mt. SAC Relays,2015-04-16,10000,W
+76,"Tambet, Heleene",SO-2,New Mexico,34:32.68,Stanford Invitational,2015-04-03,10000,W
+77,"Flattmann, Kaitlin",JR-3,Arkansas,34:32.73,Stanford Invitational,2015-04-03,10000,W
+78,"Nagel, Laura",SR-4,Providence,34:33.15,BIG EAST Outdoor Track & Field Championships,2015-05-08,10000,W
+79,"Saayman, Letitia",SR-4,Coastal Carolina,34:33.85,Raleigh Relays,2015-03-27,10000,W
+80,"Sereno, Gina",SO-2,Michigan,34:34.75,Big Ten Outdoor Track & Field Championships,2015-05-15,10000,W
+81,"Minagawa, Minori",JR-3,Ohio State,34:34.82,Stanford Invitational,2015-04-03,10000,W
+82,"Meurer, Grace",SO-2,Wisconsin,34:35.78,Stanford Invitational,2015-04-03,10000,W
+83,"Mayfield, Camelia",SR-4,Portland State,34:35.88,Stanford Invitational,2015-04-03,10000,W
+84,"Osment, Erin",SR-4,Davidson,34:36.74,Atlantic 10 Championships,2015-05-02,10000,W
+85,"Reiter, Sarah",SO-2,Eastern Washington,34:38.42,Mt. SAC Relays,2015-04-16,10000,W
+86,"Kurgat, Ednah",FR-1,Liberty,34:38.75,Raleigh Relays,2015-03-27,10000,W
+87,"Caldwell, Mackenzie",FR-1,Colorado,34:39.01,Pac-12 Track & Field Championships,2015-05-15,10000,W
+88,"Perez, Madeline",FR-1,Georgetown,34:39.71,BIG EAST Outdoor Track & Field Championships,2015-05-08,10000,W
+89,"Pham, Claudia",SR-4,Dartmouth,34:40.55,Mt. SAC Relays,2015-04-16,10000,W
+90,"Sara, Lauren",SR-4,Connecticut,34:41.30,The American Outdoor Track & Field Championships,2015-05-14,10000,W
+91,"Davis, Alex",SO-2,Baylor,34:42.30,Stanford Invitational,2015-04-03,10000,W
+92,"Darling, Kathleen",JR-3,Wake Forest,34:42.32,Virginia Challenge,2015-04-17,10000,W
+93,"Galvan, Laura",SR-4,Kansas State,34:43.46,Big 12 Outdoor Track & Field Championships,2015-05-15,10000,W
+94,"Townsend, Katie",SR-4,Georgia Tech,34:43.47,2015 Penn Relays,2015-04-23,10000,W
+95,"Rubin, Jessie",SR-4,Duke,34:44.09,2015 Penn Relays,2015-04-23,10000,W
+96,"Tuite, Shaylyn",JR-3,Syracuse,34:44.12,ACC Outdoor Track & Field Championships,2015-05-14,10000,W
+97,"Cotton, Sarah",SO-2,Georgetown,34:44.39,BIG EAST Outdoor Track & Field Championships,2015-05-08,10000,W
+98,"Ostenso, Andrea",FR-1,Northwestern,34:46.88,Stanford Invitational,2015-04-03,10000,W
+99,"Meyer, Eden",FR-1,North Florida,34:47.11,Mt. SAC Relays,2015-04-16,10000,W
+100,"Liebfreid, Isabel",SR-4,Saint Louis,34:47.49,Atlantic 10 Championships,2015-05-02,10000,W
